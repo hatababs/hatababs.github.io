@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>የመጀመሪያ ማስታወሻ! on Hababi Tafesse</title>
-    <link>https://hababi28.github.io/posts/post1/</link>
-    <description>Recent content in የመጀመሪያ ማስታወሻ! on Hababi Tafesse</description>
+    <title>የመጀመሪያ ማስታወሻ! on Portfolio</title>
+    <link>https://hatababs.github.io/posts/post1/</link>
+    <description>Recent content in የመጀመሪያ ማስታወሻ! on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hababi28.github.io/posts/post1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hatababs.github.io/posts/post1/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
